@@ -53,7 +53,7 @@ The detection results of HDNet on the three datasets: [HDNet_Visual_Result](http
 
 ##
 * HDNet employs the SLS loss and further improves the network architecture based on [MSHNet](https://github.com/Lliu666/MSHNet). Thanks to Qiankun Liu.
-
+ 
 ## Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
