@@ -13,7 +13,7 @@
 ## Links
 
 - **Paper**: [`IEEE Xplore`](https://ieeexplore.ieee.org/document/11017756)
-- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/HDNet)
+- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/TGRS25-HDNet)
 
 ---
 
